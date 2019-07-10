@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: akuotoko.github.io 
+Token: 600088157dd82dbb292563549c613291ecddd65f0727153ad860b72d00fe26e3
